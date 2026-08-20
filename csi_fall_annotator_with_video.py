@@ -1,3 +1,5 @@
+# python csi_fall_annotator.py --port COM6 --baud 921600 --backward 2.0 --forward 1.0
+
 """
 CSI Fall/Non-Fall Dataset Annotator + Video Clip Recorder
 =========================================================
